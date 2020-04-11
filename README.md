@@ -1,4 +1,4 @@
-# Denoise - A quick analysis in frequency domain to smooth your time series data in python!
+# DenoiseTimeSeries - A quick analysis in frequency domain to smooth your time series data in python!
 
  
 With Denoise, you can quickly analyze and visualize the fast fourier transform of your time series data with python in just few lines of code. Just read the time series data collected at equal time intervals and specify the final time (# of datapoints * sample time) and the sample time, and the rest is done for you.
